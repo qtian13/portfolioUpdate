@@ -3,7 +3,7 @@ This project is to create an attractive and functional portfolio for self introd
 
 ## Getting Started
 ```console
-git clone git@github.com:qtian13/portfolio.git
+git clone git@github.com:qtian13/portfolioUpdate.git
 ```
 
 ## Built With
