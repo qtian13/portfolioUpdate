@@ -21,6 +21,9 @@ git clone git@github.com:qtian13/portfolio.git
     * On the tablet screen (screen width less than 992px while no less than 768) the navigation bar creates new line for itself. The block title and block description is stacked vertically.
     * On the mobile screen (screen width less than 768px) The navigation bar change to vertical and the titles of self display sections is centered.
 
+## Demo GIF
+![demo gif](assets/images/demo.gif)
+
 ## Page URL
 https://qtian13.github.io/portfolio/
 
@@ -35,7 +38,7 @@ https://qtian13.github.io/portfolio/
 
 ## Author
 Qiushuang Tian
-- [Link to Portfolio Site](https://qtian13.github.io/myPortfolio/)
+- [Link to Portfolio Site](https://qtian13.github.io/portfolioUpdate/)
 - [Link to Github](https://github.com/qtian13)
 - [Link to LinkedIn](https://www.linkedin.com/in/qiushuang-tian-a9754248/)
 
