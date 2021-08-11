@@ -25,7 +25,7 @@ git clone git@github.com:qtian13/portfolioUpdate.git
 ![demo gif](assets/images/demo.gif)
 
 ## Page URL
-https://qtian13.github.io/portfolio/
+https://qtian13.github.io/portfolioUpdate/
 
 ## Page Screen Shot with Different Screen Width
 ![fit desktop screen](assets/images/desktop_screen.png)
