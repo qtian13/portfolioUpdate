@@ -28,12 +28,12 @@ git clone git@github.com:qtian13/portfolioUpdate.git
 https://qtian13.github.io/portfolioUpdate/
 
 ## Page Screen Shot with Different Screen Width
-![fit desktop screen](assets/images/desktop_screen.png)
+![fit desktop screen](assets/images/desktopScreen.png)
 
-<img src="assets/images/tablet_screen.png" alt="fit tablet screen" width="500">
+<img src="assets/images/tabletScreen.png" alt="fit tablet screen" width="500">
 
 
-<img src="assets/images/mobile_screen.png" alt="fit mobile screen" width="200">
+<img src="assets/images/mobileScreen.png" alt="fit mobile screen" width="200">
 
 
 ## Author
